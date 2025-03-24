@@ -158,5 +158,3 @@ var determineAdd = function() {
 addAll();
 
 sortButton.addEventListener("click", determineAdd);
-
-
