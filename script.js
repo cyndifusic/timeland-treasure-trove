@@ -56,6 +56,8 @@ var collection = [
     ["Swing Kids", "El Camino Car Crash", "a bat", "Screamo", ["Punk"], "Swing_Kids_-_El_Camino_Car_Crash.osz"],
     ["The Brave Little Abacus", "A highway got paved over my future, I drive it getting to school.", "Fump", "Math Rock", ["Rock"], "The_Brave_Little_Abacus_-_A_highway_got_paved_over_my_future_I_drive_it_getting_to_school..osz"],
     ["The Crazy World of Arthur Brown", "Fire", "a bat", "Psychedelic Rock", ["Rock"], "The_Crazy_World_of_Arthur_Brown_-_Fire.osz"],
+    ["The Flaming Lips", "The Spark That Bled", "Boden", "Neo-Psychedelia", ["Rock"], "The Flaming Lips - The Spark That Bled.osz"],
+    ["Totorro", "Home Alone", "Boden", "Math Rock", ["Rock"], "Totorro - Home Alone.osz"],
     ["Tropical Fuck Storm", "You Let My Tyres Down", "a bat", "Punk Blues", ["Punk"], "Tropical_Fuck_Storm_-_You_Let_My_Tyres_Down.osz"],
     ["Uchu Nekoko", "Film", "quantumvortex", "Ambient", ["Other"], "Uchu_Nekoko_-_Film.osz"],
     ["Ween", "Stroker Ace", "a bat", "Speed Metal", ["Metal"], "Ween_-_Stroker_Ace.osz"],
