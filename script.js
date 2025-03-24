@@ -40,7 +40,7 @@ var collection = [
     ["King Gizzard & The Lizard Wizard", "The Book", "Boden", "Psychedelic Rock", ["Rock"], "King_Gizzard__The_Lizard_Wizard_-_The_Book.osz"],
     ["King Gizzard & The Lizard Wizard", "Trapdoor", "turffff & Boden", "Psychedelic Pop", ["Pop"], "King Gizzard & The Lizard Wizard - Trapdoor.osz"],
     ["King Gizzard & The Lizard Wizard", "Vegemite", "Fump", "Psychedelic Pop", ["Pop"], "King_Gizzard__The_Lizard_Wizard_-_Vegemite.osz"],
-    ["LemKuuja", "What's a Future Funk", "turffff", "Future Funk", ["Other"], "LemKuuja - What's a Future Funk.osz"],
+    ["LemKuuja", "What's a Future Funk", "turffff", "Future Funk", ["Other"], "LemKuuja - Whats a Future Funk.osz"],
     ["Meat Wave", "Brother", "quantumvortex", "Garage Punk", ["Punk"], "Meat_Wave_-_Brother.osz"],
     ["Moon Tooth", "White Stag", "a bat", "Post-Metal", ["Metal"], "Moon_Tooth_-_White_Stag.osz"],
     ["Mr. Bungle", "Pink Cigarette", "a bat", "Art Rock", ["Rock"], "Mr._Bungle_-_Pink_Cigarette.osz"],
