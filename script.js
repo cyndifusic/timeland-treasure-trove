@@ -28,7 +28,6 @@ var collection = [
     ["Jeff Rosenstock", "FUTURE IS DUMB", "Boden", "Pop Punk", ["Pop", "Punk"], "Jeff Rosenstock - FUTURE IS DUMB.osz"],
     ["Jeff Rosenstock", "HEAD", "Boden", "Skate Punk", ["Punk"], "Jeff Rosenstock - HEAD.osz"],
     ["Jeff Rosenstock", "I WANNA BE WRONG", "Boden", "Pop Punk", ["Pop", "Punk"], "Jeff_Rosenstock_-_I_WANNA_BE_WRONG.osz"],
-    ["Jeff Rosenstock", "Monday at the Beach", "Boden", "Skate Punk", ["Punk"], "Jeff Rosenstock - Monday at the Beach.osz"],
     ["Jeff Rosenstock", "WIILL U STILL U", "Boden", "Pop Punk", ["Pop", "Punk"], "Jeff_Rosenstock_-_WILL_U_STILL_U.osz"],
     ["John Larkin", "The Misfit", "Boden", "Vocal Jazz", ["Jazz"], "John_Larkin_-_The_Misfit.osz"],
     ["JPEGMAFIA & Danny Brown", "Fentanyl Tester", "Boden", "Experimental Hip-Hop", ["Other"], "JPEGMAFIA_Danny_Brown_-_Fentanyl_Tester.osz"],
