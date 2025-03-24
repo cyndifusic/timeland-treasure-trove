@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Torus";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/Torus-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Torus-Bold';
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/Torus-Bold.otf") format("opentype");
+}
+
+body {
+    font-family: "Torus";
+    background-color: #404040;
+    color: white;
+}
+
+b, h1 {
+    font-family: "Torus-Bold";
+}
+
+h1 {
+    font-size: 72px;
+    margin: 0px;
+}
+
+p {
+    font-size: 24px;
+}
+
+a {
+    color: #e8aedb;
+}
+
+a:hover {
+    color: #bd7bae;
+}
+
+#container {
+    padding-top: 10px;
+    padding-left: 20px;
+    max-width: 1000px;
+}
+
+#list {
+    margin-left: 10px;
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
