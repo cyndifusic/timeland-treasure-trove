@@ -42,7 +42,7 @@ var collection = [
     ["John Larkin", "The Misfit", "5:53", "Boden", "Vocal Jazz", ["Jazz"], "John_Larkin_-_The_Misfit.osz"],
     ["JPEGMAFIA & Danny Brown", "Fentanyl Tester", "2:37", "Boden", "Experimental Hip-Hop", ["Other"], "JPEGMAFIA_Danny_Brown_-_Fentanyl_Tester.osz"],
     ["King Gizzard & The Lizard Wizard", "Automation", "3:31", "TVRemote", "Psychedelic Rock", ["Rock"], "King Gizzard & The Lizard Wizard - Automation.osz"],
-    ["King Gizzard & The Lizard Wizard", "Cellophane", "3:12", "Fump", "Psychedelick Rock", ["Rock"], "King Gizzard & The Lizard Wizard - Cellophane.osz"],
+    ["King Gizzard & The Lizard Wizard", "Cellophane", "3:12", "Fump", "Psychedelic Rock", ["Rock"], "King Gizzard & The Lizard Wizard - Cellophane.osz"],
     ["King Gizzard & The Lizard Wizard", "Evil Death Roll", "7:15", "TVRemote", "Psychedelic Rock", ["Rock"], "King Gizzard & The Lizard Wizard - Evil Death Roll.osz"],
     ["King Gizzard & The Lizard Wizard", "Gliese 710", "7:49", "TVRemote", "Jazz-Rock", ["Jazz", "Rock"], "King Gizzard & The Lizard Wizard - Gliese 710.osz"],
     ["King Gizzard & The Lizard Wizard", "Her & I (Slow Jam II)", "8:15", "turffff", "Psychedelic Rock", ["Rock"], "King Gizzard & The Lizard Wizard - Her & I (Slow Jam II).osz"],
