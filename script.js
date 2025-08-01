@@ -112,7 +112,7 @@ var collection = [
     ["Norma Jean", "Memphis Will Be Laid to Waste", "4:57", "Bonk", "Metalcore", ["Metal"], "Norma Jean - Memphis Will Be Laid to Waste.osz"],
     ["Nuclear Assault", "Critical Mass", "3:20", "itzKira811", "Rock", ["Rock"], "Nuclear Assault - Critical Mass.osz"],
     ["Overmars", "Deux mesures de solitude", "5:07", "Bonk", "Post-Metal", ["Metal", "Rock"], "Overmars - Deux mesures de solitude.oszOvermars - Deux mesures de solitude.osz"],
-    ["P.E.E", "Fight Song (The)", "Boden", "Math Rock", ["Rock"], "P.E.E. - Fight Song (The).osz"],
+    ["P.E.E.", "Fight Song (The)", "0:53", "Boden", "Math Rock", ["Rock"], "P.E.E. - Fight Song (The).osz"],
     ["P.E.E.", "Treed", "3:33", "Boden", "Math Rock", ["Rock"], "P.E.E. - Treed.osz"],
     ["Phineas And Ferb-Tones", "Glitchee Glitchee Goo! (Extended)", "1:59", "dopaminos", "Rock", ["Rock"], "q2jx2v.osz"],
     ["Pianos Become The Teeth", "Ripple Water Shine", "3:30", "quantumvortex", "Emo", ["Rock"], "Pianos_Become_The_Teeth_-_Ripple_Water_Shine.osz"],
